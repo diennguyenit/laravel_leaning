@@ -1,5 +1,15 @@
 client 1 them
+<<<<<<< HEAD
+client 2 them
+=======
 client 1 them lan 2
+<<<<<<< HEAD
 client 1 them lan 3 khi chua commit
 
 sửa dòng này
+=======
+>>>>>>> 42f820e43a8be5a26fc1d77440ae91f044bb8048
+
+
+sua them 
+>>>>>>> df21c7fd3db530b15283ad340679449f714803db
