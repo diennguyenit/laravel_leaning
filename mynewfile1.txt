@@ -1,2 +1,5 @@
 client 1 them
 client 1 them lan 2
+client 1 them lan 3 khi chua commit
+
+sửa dòng này
