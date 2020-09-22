@@ -1,2 +1,9 @@
 client 1 them
+<<<<<<< HEAD
 client 2 them
+=======
+client 1 them lan 2
+>>>>>>> 42f820e43a8be5a26fc1d77440ae91f044bb8048
+
+
+sua them 
