@@ -107,3 +107,8 @@ Route::get('test-blade', function(){
 Route::get('get-master-blade', function(){
     return view('layouts.master');
 });
+
+Route::get('test-git', function(){
+    return view('layouts.master');
+});
+
