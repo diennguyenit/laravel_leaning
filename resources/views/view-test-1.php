@@ -1,0 +1,1 @@
+<h1>show data view test 1: <?php echo $tg ?></h1>
